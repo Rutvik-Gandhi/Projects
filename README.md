@@ -1,1 +1,1 @@
-# Projects
+# Bachlor's Final Projects
